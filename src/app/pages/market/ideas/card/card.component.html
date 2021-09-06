@@ -1,0 +1,19 @@
+<div class="card1">
+  <!-- <img class="imgCard" src="../../../../../assets/img/main/Food_Items_pics/{{item.Image.Name}}" style="width:100%"> -->
+  <img class="imgCard" src="../../../assets/img/main/Food_Items_pics/{{item.Image.Name.toLowerCase()}}.jpg" style="width:100%">
+  <div class="row">
+    <div class="col-9">
+      <div class="infoCard"> {{item.Name}} </div>
+    </div>
+    <div class="col-3" *ngIf="item.selected" (click)="chnageStatus(false)">
+      <ion-icon name="heart-dislike-outline"></ion-icon>
+    </div>
+    <div class="col-3" *ngIf="!item.selected" (click)="chnageStatus(true)">
+      <ion-icon name="heart-outline"></ion-icon>
+    </div>
+  </div>
+
+  <!-- <div class="descCard"> {{item.Description}} </div> -->
+  <!-- <div class="line"></div> -->
+  <!-- <div class="calCard"> Caluries : {{item.Caluries}} </div> -->
+</div>

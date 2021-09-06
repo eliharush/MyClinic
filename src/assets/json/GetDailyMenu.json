@@ -1,0 +1,120 @@
+[
+    {
+        "MealCalories": 576,
+        "MealType": 10,
+        "Dishes": [
+            {
+                "UUID": "9fdfec02-1c86-4166-984f-e8ef4d589c73",
+                "Name": "Sandwich_Tahini",
+                "Description": "85",
+                "Caluries": 236,
+                "Image": {
+                    "Name": "Sandwich_Tahini",
+                    "Alt": "Sandwich_Tahini"
+                }
+            },
+            {
+                "UUID": "0dfe7494-0d3f-4e4e-aec1-fcc95fd2a7ff",
+                "Name": "Oat_Lentils_crackers",
+                "Description": "101",
+                "Caluries": 340,
+                "Image": {
+                    "Name": "Oat_Lentils_crackers",
+                    "Alt": "Cracker Oat-Lentils"
+                }
+            }
+        ]
+    },
+    {
+        "MealCalories": 763,
+        "MealType": 20,
+        "Dishes": [
+            {
+                "UUID": "88706f4d-1f3d-4795-b45d-454619dee5df",
+                "Name": "Mushrooms_Suarma",
+                "Description": "207",
+                "Caluries": 139,
+                "Image": {
+                    "Name": "Mushrooms_Suarma",
+                    "Alt": "Mushrooms_Suarma"
+                }
+            },
+            {
+                "UUID": "2266798f-9a7e-4d12-869e-2ede598edb7f",
+                "Name": "Brown_rice",
+                "Description": "cooked cup 195",
+                "Caluries": 217,
+                "Image": {
+                    "Name": "Brown_rice",
+                    "Alt": "Brown_rice"
+                }
+            },
+            {
+                "UUID": "4e6c3e82-d534-414a-a35c-7fc991a627e0",
+                "Name": "Soup_Veg",
+                "Description": "129",
+                "Caluries": 161,
+                "Image": {
+                    "Name": "Soup_Veg",
+                    "Alt": "Soup_Veg"
+                }
+            },
+            {
+                "UUID": "ded3d642-9463-480b-adf7-8b1c8e54c69c",
+                "Name": "Fennel_Kohlrabi_sliced",
+                "Description": "214",
+                "Caluries": 150,
+                "Image": {
+                    "Name": "Fennel_Kohlrabi_sliced",
+                    "Alt": "Fennel_kohlrabi_sliced"
+                }
+            },
+            {
+                "UUID": "ba92919c-0f9b-4986-b44a-28d3dd297fbc",
+                "Name": "Cucammber_seaweed_salad",
+                "Description": "213",
+                "Caluries": 96,
+                "Image": {
+                    "Name": "Cucammber_seaweed_salad",
+                    "Alt": "Cucammber_seaweed_salad"
+                }
+            }
+        ]
+    },
+    {
+        "MealCalories": 589,
+        "MealType": 30,
+        "Dishes": [
+            {
+                "UUID": "fc86e277-20c2-40a6-a36b-ea890b85dbba",
+                "Name": "Sardins_in_water",
+                "Description": "75",
+                "Caluries": 85,
+                "Image": {
+                    "Name": "Sardins_in_water",
+                    "Alt": "Sardins in Water"
+                }
+            },
+            {
+                "UUID": "dbec09c8-2fcd-4c10-afe8-05ea28dbbfcf",
+                "Name": "Rice_Pea",
+                "Description": "360",
+                "Caluries": 363,
+                "Image": {
+                    "Name": "Rice_Pea",
+                    "Alt": "Rice_Pea"
+                }
+            },
+            {
+                "UUID": "6f9cb848-694c-44cc-bf6d-17a7681775de",
+                "Name": "Coconut_banana_cockies",
+                "Description": "120",
+                "Caluries": 141,
+                "Image": {
+                    "Name": "Coconut_banana_cockies",
+                    "Alt": "Coconut_banana_cockies"
+                }
+            }
+        ]
+    }
+]

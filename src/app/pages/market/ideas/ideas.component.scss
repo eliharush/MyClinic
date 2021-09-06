@@ -1,0 +1,33 @@
+.textContainer{
+    width:95%;
+    margin: auto;
+    margin-top:20px;
+    padding: 20px;
+    background-color: #fdedaf;
+}
+
+.title{
+    font-size:18px;
+    font-weight: bold;
+}
+
+.discription{
+    margin-top: 20px;;
+}
+
+.cards{
+width:100%;
+overflow: hidden;
+}
+
+.cardLeft{
+    float: left;
+    width:50%;
+    margin-top: 10px;;
+}
+
+.cardRight{
+    float: right;
+    width:50%;
+    margin-top: 10px;;
+}

@@ -1,0 +1,130 @@
+[
+    {
+        "MealCalories": 605.0,
+        "MealType": 10,
+        "Dishes": [
+            {
+                "UUID": "921c383c-da37-44aa-9502-43b3ce567bc1",
+                "Name": "Smoothi",
+                "Description": "161",
+                "Caluries": 290.0,
+                "Image": {
+                    "Name": "Smoothi",
+                    "Alt": "Smoothi"
+                }
+            },
+            {
+                "UUID": "a512952c-c36b-43bb-af1a-49e367d2af22",
+                "Name": "Carrot",
+                "Description": "20",
+                "Caluries": 8.0,
+                "Image": {
+                    "Name": "Carrot",
+                    "Alt": "Carrot"
+                }
+            },
+            {
+                "UUID": "9f90fa7d-2fdc-4831-8918-379b48ebad1c",
+                "Name": "Sprouts_salad",
+                "Description": "158",
+                "Caluries": 97.0,
+                "Image": {
+                    "Name": "Sprouts_salad",
+                    "Alt": "Sprouts_salad"
+                }
+            }
+        ]
+    },
+    {
+        "MealCalories": 792.0,
+        "MealType": 20,
+        "Dishes": [
+            {
+                "UUID": "551d4f40-47cb-4773-a12e-f81e597cb25e",
+                "Name": "Sweet_potato_cutlets_VG_GF",
+                "Description": "105",
+                "Caluries": 269.0,
+                "Image": {
+                    "Name": "Sweet_potato_cutlets_VG_GF",
+                    "Alt": "Sweet_potato_cutlets_VG_GF"
+                }
+            },
+            {
+                "UUID": "96bfdf8d-f8c4-49ad-b30d-a87897178a06",
+                "Name": "Antipasti",
+                "Description": "514",
+                "Caluries": 288.0,
+                "Image": {
+                    "Name": "Antipasti",
+                    "Alt": "Antipasti"
+                }
+            },
+            {
+                "UUID": "10390475-3472-4b16-bc46-e1777bf0a3cf",
+                "Name": "Raman_soup",
+                "Description": "179",
+                "Caluries": 139.0,
+                "Image": {
+                    "Name": "Raman_soup",
+                    "Alt": "Raman_soup"
+                }
+            },
+            {
+                "UUID": "ba92919c-0f9b-4986-b44a-28d3dd297fbc",
+                "Name": "Cuccamber_seaweed_salad",
+                "Description": "213",
+                "Caluries": 96.0,
+                "Image": {
+                    "Name": "Cuccamber_seaweed_salad",
+                    "Alt": "Cuccamber_seaweed_salad"
+                }
+            }
+        ]
+    },
+    {
+        "MealCalories": 654.0,
+        "MealType": 30,
+        "Dishes": [
+            {
+                "UUID": "EDEC126F-353E-423F-8A38-07C19EC5F2C7",
+                "Name": "Beet_carrot_salad",
+                "Description": "360",
+                "Caluries": 152.0,
+                "Image": {
+                    "Name": "Beet_carrot_salad",
+                    "Alt": "Beet_carrot_salad"
+                }
+            },
+            {
+                "UUID": "768f6ded-559c-4d17-9387-0def39005a00",
+                "Name": "Egg_boiled",
+                "Description": "38",
+                "Caluries": 54.0,
+                "Image": {
+                    "Name": "Egg_boiled",
+                    "Alt": "Egg_boiled"
+                }
+            },
+            {
+                "UUID": "8c885252-7d96-407d-8d1b-f895a83aa3b2",
+                "Name": "Banana_maffin",
+                "Description": "137.5",
+                "Caluries": 245.0,
+                "Image": {
+                    "Name": "Banana_maffin",
+                    "Alt": "Banana_maffin"
+                }
+            },
+            {
+                "UUID": "aeeae99f-3dc1-4a5b-b2c0-2772d2fdcfad",
+                "Name": "Sliced_Vegetables",
+                "Description": "353",
+                "Caluries": 124.0,
+                "Image": {
+                    "Name": "Sliced_Vegetables",
+                    "Alt": "Sliced_Vegetables"
+                }
+            }
+        ]
+    }
+]

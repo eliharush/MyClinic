@@ -1,0 +1,120 @@
+[
+    {
+        "MealCalories": 564.0,
+        "MealType": 10,
+        "Dishes": [
+            {
+                "UUID": "a581a2de-b88b-47b3-a8d8-e9dd9634e70a",
+                "Name": "Green_smoothi",
+                "Description": "183",
+                "Caluries": 205.0,
+                "Image": {
+                    "Name": "Green_smoothi",
+                    "Alt": "Green_smoothi"
+                }
+            },
+            {
+                "UUID": "aa894373-1eb8-4634-b488-d37050a8f9fe",
+                "Name": "Red_pepper",
+                "Description": "65",
+                "Caluries": 20.0,
+                "Image": {
+                    "Name": "Red_pepper",
+                    "Alt": "Red_pepper"
+                }
+            },
+            {
+                "UUID": "29024f41-33d1-446c-8b20-34be5bc8a957",
+                "Name": "Arugula_pomegranate_salad",
+                "Description": "208.5",
+                "Caluries": 242.0,
+                "Image": {
+                    "Name": "Arugula_pomegranate_salad",
+                    "Alt": "Arugula_pomegranate_salad"
+                }
+            }
+        ]
+    },
+    {
+        "MealCalories": 807.0,
+        "MealType": 20,
+        "Dishes": [
+            {
+                "UUID": "c141d1ec-818b-4d28-8c37-1ad728ee3a92",
+                "Name": "Steak_vegetables",
+                "Description": "261.5",
+                "Caluries": 317.0,
+                "Image": {
+                    "Name": "Steak_vegetables",
+                    "Alt": "Steak_vegetables"
+                }
+            },
+            {
+                "UUID": "10ee9fa9-12d6-40bf-8d1c-2e8b09af0633",
+                "Name": "White_beans",
+                "Description": "222",
+                "Caluries": 280.0,
+                "Image": {
+                    "Name": "White_beans",
+                    "Alt": "White_beans"
+                }
+            },
+            {
+                "UUID": "800a98aa-618e-458c-a79d-a6316b65860e",
+                "Name": "Green_salad",
+                "Description": "474",
+                "Caluries": 210.0,
+                "Image": {
+                    "Name": "Green_salad",
+                    "Alt": "Green_salad"
+                }
+            }
+        ]
+    },
+    {
+        "MealCalories": 551.0,
+        "MealType": 30,
+        "Dishes": [
+            {
+                "UUID": "88706f4d-1f3d-4795-b45d-454619dee5df",
+                "Name": "Mushrooms_shuarma",
+                "Description": "206.5",
+                "Caluries": 139.0,
+                "Image": {
+                    "Name": "Mushrooms_shuarma",
+                    "Alt": "Mushrooms_shuarma"
+                }
+            },
+            {
+                "UUID": "498bf817-f657-4e4e-aee1-87ed913289a3",
+                "Name": "Eggplant_chees_rolls",
+                "Description": "112",
+                "Caluries": 211.0,
+                "Image": {
+                    "Name": "Eggplant_chees_rolls",
+                    "Alt": "Eggplant_chees_rolls"
+                }
+            },
+            {
+                "UUID": "3fe118f2-ead2-4617-b8ea-821a7923e377",
+                "Name": "Brazil_nuts",
+                "Description": "14",
+                "Caluries": 90.0,
+                "Image": {
+                    "Name": "Brazil_nuts",
+                    "Alt": "Brazil_nuts"
+                }
+            },
+            {
+                "UUID": "52d0248b-6276-4696-8ebb-0cd7362c8754",
+                "Name": "Tahini_salad",
+                "Description": "81",
+                "Caluries": 111.0,
+                "Image": {
+                    "Name": "Tahini_salad",
+                    "Alt": "Tahini_salad"
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "items": [
+            {
+                "id": "1",
+                "Name": "Acne"
+            },
+            {
+                "id": "1",
+                "Name": "Allergies"
+            },
+            {
+                "id": "1",
+                "Name": "Alzheimer's disease"
+            },
+            {
+                "id": "1",
+                "Name": "Anemia"
+            },
+            {
+                "id": "1",
+                "Name": "Anorexia nervosa"
+            },
+            {
+                "id": "1",
+                "Name": "Anxiety"
+            }
+        ]
+    },
+    {
+        "items": [
+            {
+                "id": "1",
+                "Name": "Bach flower remedies"
+            },
+            {
+                "id": "1",
+                "Name": "Chinese medicine"
+            },
+            {
+                "id": "1",
+                "Name": "homeopathy"
+            },
+            {
+                "id": "1",
+                "Name": "aromatherapy"
+            },
+            {
+                "id": "1",
+                "Name": "Herbalist"
+            },
+            {
+                "id": "1",
+                "Name": "naturopathy"
+            }
+        ]
+    }
+]

@@ -1,0 +1,20 @@
+<div class="main">
+  <img src="assets/img/pages/ideas.jpg" style="width: 100%;">
+  <div class="cards">
+    <div class="cardRight">
+      <div *ngFor="let item of arrLeft let i=index">
+        <app-card [item]="item"></app-card>
+      </div>
+    </div>
+    <div class="cardLeft">
+      <div *ngFor="let item of arrRight let i=index">
+        <app-card [item]="item"></app-card>
+      </div>
+    </div>
+
+    <!-- <div class="cardRight" *ngFor="let item of arrRight let i=index">
+      <app-card [item]="item"></app-card>
+    </div> -->
+  </div>
+
+</div>

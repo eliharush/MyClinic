@@ -1,0 +1,130 @@
+[
+    {
+        "MealCalories": 638.0,
+        "MealType": 10,
+        "Dishes": [
+            {
+                "UUID": "b6f52ae5-c262-4284-b2f2-38d9a1c482c2",
+                "Name": "Muesli_VG_GF",
+                "Description": "281",
+                "Caluries": 300.0,
+                "Image": {
+                    "Name": "Muesli_VG_GF",
+                    "Alt": "Muesli_VG_GF"
+                }
+            },
+            {
+                "UUID": "99de4cba-80d6-43ca-93f2-6120902c3963",
+                "Name": "Banana",
+                "Description": "60",
+                "Caluries": 50.0,
+                "Image": {
+                    "Name": "Banana",
+                    "Alt": "Banana"
+                }
+            },
+            {
+                "UUID": "aeeae99f-3dc1-4a5b-b2c0-2772d2fdcfad",
+                "Name": "Sliced_Vegetables",
+                "Description": "353",
+                "Caluries": 124.0,
+                "Image": {
+                    "Name": "Sliced_Vegetables",
+                    "Alt": "Sliced_Vegetables"
+                }
+            }
+        ]
+    },
+    {
+        "MealCalories": 821.0,
+        "MealType": 20,
+        "Dishes": [
+            {
+                "UUID": "6fdde909-d2ed-4b3e-93bf-c0d334ba9cc6",
+                "Name": "Chicken",
+                "Description": "100",
+                "Caluries": 287.0,
+                "Image": {
+                    "Name": "Chicken",
+                    "Alt": "Chicken"
+                }
+            },
+            {
+                "UUID": "498bf817-f657-4e4e-aee1-87ed913289a3",
+                "Name": "Eggplant_chees_rolls",
+                "Description": "112",
+                "Caluries": 211.0,
+                "Image": {
+                    "Name": "Eggplant_chees_rolls",
+                    "Alt": "Eggplant_chees_rolls"
+                }
+            },
+            {
+                "UUID": "92939ae9-138c-454d-ba79-f70c3caa3d3f",
+                "Name": "Mushrooms_soup",
+                "Description": "85",
+                "Caluries": 56.0,
+                "Image": {
+                    "Name": "Mushrooms_soup",
+                    "Alt": "Mushrooms_soup"
+                }
+            },
+            {
+                "UUID": "aa95e913-0df6-48bc-9ff1-eba86d05ff19",
+                "Name": "Vegetables_avocado_salad",
+                "Description": "437",
+                "Caluries": 267.0,
+                "Image": {
+                    "Name": "Vegetables_avocado_salad",
+                    "Alt": "Vegetables_avocado_salad"
+                }
+            }
+        ]
+    },
+    {
+        "MealCalories": 591.0,
+        "MealType": 30,
+        "Dishes": [
+            {
+                "UUID": "b92da94d-e36c-46d8-b86f-ed57af9a0e3c",
+                "Name": "Meat_balls",
+                "Description": "366",
+                "Caluries": 591.0,
+                "Image": {
+                    "Name": "Meat_balls",
+                    "Alt": "Meat_balls"
+                }
+            },
+            {
+                "UUID": "4e0691ff-1c0f-4947-83c5-cdd3149f8956",
+                "Name": "Tomato_basil_salad",
+                "Description": "166",
+                "Caluries": 41.0,
+                "Image": {
+                    "Name": "Tomato_basil_salad",
+                    "Alt": "Tomato_basil_salad"
+                }
+            },
+            {
+                "UUID": "A7844A37-4A65-482D-ACCE-AC2309EE9C94",
+                "Name": "Rice_Veg",
+                "Description": "234",
+                "Caluries": 299.0,
+                "Image": {
+                    "Name": "Rice_Veg",
+                    "Alt": "Rice_Veg"
+                }
+            },
+            {
+                "UUID": "33f490b1-4442-4018-b94a-29f207e104fc",
+                "Name": "Olives",
+                "Description": "25",
+                "Caluries": 44.0,
+                "Image": {
+                    "Name": "Olives",
+                    "Alt": "Olives"
+                }
+            }
+        ]
+    }
+]

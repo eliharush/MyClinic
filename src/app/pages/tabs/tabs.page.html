@@ -1,0 +1,23 @@
+<ion-tabs>
+    <ion-tab-bar slot="bottom" class="mainTabs">
+        <ion-tab-button class="tab" tab="home" (click)="selectedTab(0)">
+            <img [ngClass]="currentTab == 0 ? 'iconImg' : 'iconImgOf'" src="assets/img/graphics/bi.png">
+        </ion-tab-button>
+        <ion-tab-button tab="index" class="tab" (click)="selectedTab(1)">
+            <img [ngClass]="currentTab == 1 ? 'iconImg' : 'iconImgOf'" src="assets/img/graphics/index_icon_on.png">
+        </ion-tab-button>
+
+        <ion-tab-button tab="market/1" class="tab" (click)="selectedTab(2)">
+            <img [ngClass]="currentTab == 2 ? 'iconImg' : 'iconImgOf'" src="assets/img/graphics/Market_icon_on.png">
+        </ion-tab-button>
+
+        <ion-tab-button tab="myday" class="tab" (click)="selectedTab(3)">
+            <img [ngClass]="currentTab == 3 ? 'iconImg' : 'iconImgOf'" src="assets/img/graphics/MyDay_icon_on.png">
+        </ion-tab-button>
+
+        <ion-tab-button tab="network" class="tab" (click)="selectedTab(4)">
+            <img [ngClass]="currentTab == 4 ? 'iconImg' : 'iconImgOf'" src="./assets/img/graphics/Network_icon_on.png">
+            <!-- <ion-label>Network</ion-label> -->
+        </ion-tab-button>
+    </ion-tab-bar>
+</ion-tabs>

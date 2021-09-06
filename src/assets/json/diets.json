@@ -1,0 +1,17 @@
+[
+    {
+        "UUID": "2930448c-77d6-4f5a-a4ee-3935603485cf",
+        "Name": "Mediterranean",
+        "selected": "true"
+    },
+    {
+        "UUID": "0dbe91c8-c153-4ad7-90dc-c79ae5f4741a",
+        "Name": "Vegan",
+        "selected": "false"
+    },
+    {
+        "UUID": "1bdad598-c41d-4b74-86d5-bdbd85a6d6f9",
+        "Name": "Low Carb",
+        "selected": "false"
+    }
+]

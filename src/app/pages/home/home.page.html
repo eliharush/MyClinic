@@ -1,0 +1,16 @@
+<!-- <ion-header>
+  <ion-toolbar>
+    <ion-title>home</ion-title>
+  </ion-toolbar>
+</ion-header> -->
+
+<ion-content style="overflow: hidden;">
+    <div *ngIf="showMainPage" class="messages" [routerLink]="['/tabs/myday']"></div>
+    <div *ngIf="showMainPage" class="star" [routerLink]="['/tabs/market/2']"></div>
+    <div *ngIf="showMainPage" class="userDetails" [routerLink]="['/user-details']"></div>
+    <img *ngIf="showMainPage" (click)="changePageStatus()" src="../../../assets/img/pages/main_1.png"
+        style="height:100%" class="Img">
+
+    <img *ngIf="!showMainPage" (click)="changePageStatus()" src="../../../assets/img/pages/main_2.png"
+        style="height:100%" class="Img">
+</ion-content>

@@ -1,0 +1,51 @@
+<div class="main" *ngIf="mealsObj.Breakfest">
+  <div class="slide">
+    <div class="titleSlide">
+      Breakfest
+    </div>
+    <div class="grid mt-3">
+      <ion-grid style="padding-left: 0px; padding-right: 0px;">
+        <ion-slides pager="false" [options]="slideOptsTwo" #slideWithNav2
+          (ionSlideDidChange)="SlideDidChange(sliderTwo,slideWithNav2)" class="mt-2 mb-2 ml-2">
+          <ion-slide *ngFor="let s of mealsObj.Breakfest.Dishes" class="ml-2">
+            <img src="../../../assets/img/main/Food_Items_pics/{{s.Name.toLowerCase()}}.jpg">
+          </ion-slide>
+        </ion-slides>
+      </ion-grid>
+    </div>
+  </div>
+
+
+
+  <div class="slide" *ngIf="mealsObj.Lunch">
+    <div class="titleSlide">
+      Lunch
+    </div>
+    <div class="grid mt-3">
+      <ion-grid style="padding-left: 0px; padding-right: 0px;">
+        <ion-slides pager="false" [options]="slideOptsTwo" #slideWithNav2
+          (ionSlideDidChange)="SlideDidChange(sliderTwo,slideWithNav2)" class="mt-2 mb-2 ml-2">
+          <ion-slide *ngFor="let s of mealsObj.Lunch.Dishes" class="ml-2">
+            <img src="../../../assets/img/main/Food_Items_pics/{{s.Name.toLowerCase()}}.jpg">
+          </ion-slide>
+        </ion-slides>
+      </ion-grid>
+    </div>
+  </div>
+
+  <div class="slide" *ngIf="mealsObj.Dinner">
+    <div class="titleSlide">
+      Dinner
+    </div>
+    <div class="grid mt-3">
+      <ion-grid style="padding-left: 0px; padding-right: 0px;">
+        <ion-slides pager="false" [options]="slideOptsTwo" #slideWithNav2
+          (ionSlideDidChange)="SlideDidChange(sliderTwo,slideWithNav2)" class="mt-2 mb-2 ml-2">
+          <ion-slide *ngFor="let s of mealsObj.Dinner.Dishes" class="ml-2">
+            <img src="../../../assets/img/main/Food_Items_pics/{{s.Name.toLowerCase()}}.jpg">
+          </ion-slide>
+        </ion-slides>
+      </ion-grid>
+    </div>
+  </div>
+</div>

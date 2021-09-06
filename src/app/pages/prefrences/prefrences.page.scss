@@ -1,0 +1,86 @@
+.strip{
+    margin-top: 5px;
+    }
+    
+    .mainHeader{
+        overflow: hidden;
+        width:100%;
+        background-color: #9FCFBB;;
+        padding: 10px;
+    }
+
+    .section{
+        
+    }
+    
+    .refres{
+        width:10%;
+        float: left;
+        color:black;
+        z-index: 100;
+        font-size: 30px;
+        margin-top: 8px;;
+        cursor: pointer;
+        font-weight: bold;
+    }
+    
+    .info{
+        width:75%;
+        float: left;
+        margin-left:0px;
+        margin-top: 5px;
+        font-size: 25px;
+        font-weight: bold;
+    }
+    
+    .setting{
+        width:10%;
+        float: left;
+    }
+
+    .mainSection{
+        font-size: 20px;
+        font-weight: bold;
+        margin-left: 16px;
+        margin-top: 10px;
+    }
+
+    .cb{
+        margin-left: 15px;
+        width: 20px;
+        height: 20px;
+    }
+
+    .mealTXT{
+        margin-left: 10px;
+        margin-top: -2px;
+    }
+
+    .line{
+        width:100%;
+        height:1px;
+        background-color: #f7f7f7;;
+        margin-top: 10px;
+        margin-bottom: 17px;
+    }
+
+    .mRow{
+        margin-top: 15px;
+    }
+
+    .toogles{
+        overflow: hidden;
+        width: 100%;
+    }
+
+    .toogleLeft{
+        width:40%;
+        float: left;
+        margin-left: 20px;
+    }
+
+    .toogleRight{
+        width:40%;
+        float: right;
+        margin-right: 20px;
+    }

@@ -1,0 +1,110 @@
+[
+    {
+        "MealCalories": 652.0,
+        "MealType": 10,
+        "Dishes": [
+            {
+                "UUID": "f7466739-a235-4887-bc7a-5835868bf1e6",
+                "Name": "Oat_meal",
+                "Description": "36",
+                "Caluries": 172.0,
+                "Image": {
+                    "Name": "Oat_meal",
+                    "Alt": "Oat_meal"
+                }
+            },
+            {
+                "UUID": "FE1278FF-7E67-4B49-87F8-2BE6C8468318",
+                "Name": "Pecan",
+                "Description": "13",
+                "Caluries": 90.0,
+                "Image": {
+                    "Name": "Pecan",
+                    "Alt": "Pecan"
+                }
+            },
+            {
+                "UUID": "049E9C93-D5EF-4031-AF77-0709FA25BA14",
+                "Name": "Fruit_salad",
+                "Description": "414",
+                "Caluries": 380.0,
+                "Image": {
+                    "Name": "Fruit_salad",
+                    "Alt": "Fruit_salad"
+                }
+            }
+        ]
+    },
+    {
+        "MealCalories": 727.0,
+        "MealType": 20,
+        "Dishes": [
+            {
+                "UUID": "f642a46e-085d-4977-a7aa-2d4668dddc55",
+                "Name": "Soba_Noodles_Vegetables",
+                "Description": "222",
+                "Caluries": 272.0,
+                "Image": {
+                    "Name": "Soba_Noodles_Vegetables",
+                    "Alt": "Soba_Noodles_Vegetables"
+                }
+            },
+            {
+                "UUID": "48506366-fdd4-4edd-84f2-7954f09253ef",
+                "Name": "Sushi",
+                "Description": "308",
+                "Caluries": 250.0,
+                "Image": {
+                    "Name": "Sushi",
+                    "Alt": "Sushi"
+                }
+            },
+            {
+                "UUID": "ba92919c-0f9b-4986-b44a-28d3dd297fbc",
+                "Name": "Cuccamber_seaweed_salad",
+                "Description": "213",
+                "Caluries": 96.0,
+                "Image": {
+                    "Name": "Cuccamber_seaweed_salad",
+                    "Alt": "Cuccamber_seaweed_salad"
+                }
+            },
+            {
+                "UUID": "60A662D9-9252-4E45-8910-6152FDD1CD3A",
+                "Name": "Dates_rolls",
+                "Description": "51",
+                "Caluries": 147.0,
+                "Image": {
+                    "Name": "Dates_rolls",
+                    "Alt": "Dates_rolls"
+                }
+            }
+        ]
+    },
+    {
+        "MealCalories": 660.0,
+        "MealType": 30,
+        "Dishes": [
+            {
+                "UUID": "b6f52ae5-c262-4284-b2f2-38d9a1c482c2",
+                "Name": "Muesli_VG_GF",
+                "Description": "281",
+                "Caluries": 300.0,
+                "Image": {
+                    "Name": "Muesli_VG_GF",
+                    "Alt": "Muesli_VG_GF"
+                }
+            },
+            {
+                "UUID": "1C350EC2-EB76-4C3F-8ABF-F89DD1B7AF38",
+                "Name": "Banana_raspberry_sorbet",
+                "Description": "121",
+                "Caluries": 112.0,
+                "Image": {
+                    "Name": "Banana_raspberry_sorbet",
+                    "Alt": "Banana_raspberry_sorbet"
+                }
+            }
+        ]
+    }
+]

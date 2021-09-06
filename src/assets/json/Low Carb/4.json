@@ -1,0 +1,140 @@
+[
+    {
+        "MealCalories": 628.0,
+        "MealType": 10,
+        "Dishes": [
+            {
+                "UUID": "a581a2de-b88b-47b3-a8d8-e9dd9634e70a",
+                "Name": "Green_smoothi",
+                "Description": "183",
+                "Caluries": 205.0,
+                "Image": {
+                    "Name": "Green_smoothi",
+                    "Alt": "Green_smoothi"
+                }
+            },
+            {
+                "UUID": "d6a7c950-7b77-48fe-947f-1cfb94b6e428",
+                "Name": "Beetroot_carpaccio",
+                "Description": "169",
+                "Caluries": 154.0,
+                "Image": {
+                    "Name": "Beetroot_carpaccio",
+                    "Alt": "Beetroot_carpaccio"
+                }
+            },
+            {
+                "UUID": "2c1599b3-60c7-4304-a943-7864ac32fe15",
+                "Name": "Guacamole",
+                "Description": "259",
+                "Caluries": 250.0,
+                "Image": {
+                    "Name": "Guacamole",
+                    "Alt": "Guacamole"
+                }
+            },
+            {
+                "UUID": "ba92919c-0f9b-4986-b44a-28d3dd297fbc",
+                "Name": "Cuccamber_seaweed_salad",
+                "Description": "213",
+                "Caluries": 96.0,
+                "Image": {
+                    "Name": "Cuccamber_seaweed_salad",
+                    "Alt": "Cuccamber_seaweed_salad"
+                }
+            }
+        ]
+    },
+    {
+        "MealCalories": 789.0,
+        "MealType": 20,
+        "Dishes": [
+            {
+                "UUID": "c141d1ec-818b-4d28-8c37-1ad728ee3a92",
+                "Name": "Steak_vegetables",
+                "Description": "261.5",
+                "Caluries": 317.0,
+                "Image": {
+                    "Name": "Steak_vegetables",
+                    "Alt": "Steak_vegetables"
+                }
+            },
+            {
+                "UUID": "498bf817-f657-4e4e-aee1-87ed913289a3",
+                "Name": "Eggplant_chees_rolls",
+                "Description": "112",
+                "Caluries": 211.0,
+                "Image": {
+                    "Name": "Eggplant_chees_rolls",
+                    "Alt": "Eggplant_chees_rolls"
+                }
+            },
+            {
+                "UUID": "52d0248b-6276-4696-8ebb-0cd7362c8754",
+                "Name": "Tahini_salad",
+                "Description": "81",
+                "Caluries": 111.0,
+                "Image": {
+                    "Name": "Tahini_salad",
+                    "Alt": "Tahini_salad"
+                }
+            },
+            {
+                "UUID": "ded3d642-9463-480b-adf7-8b1c8e54c69c",
+                "Name": "Fennel_kohlrabi_sliced",
+                "Description": "214",
+                "Caluries": 150.0,
+                "Image": {
+                    "Name": "Fennel_kohlrabi_sliced",
+                    "Alt": "Fennel_kohlrabi_sliced"
+                }
+            }
+        ]
+    },
+    {
+        "MealCalories": 578.0,
+        "MealType": 30,
+        "Dishes": [
+            {
+                "UUID": "99018520-9f01-4849-b758-d0ca3c0295fc",
+                "Name": "Salmon_on_pan",
+                "Description": "154.5",
+                "Caluries": 356.0,
+                "Image": {
+                    "Name": "Salmon_on_pan",
+                    "Alt": "Salmon_on_pan"
+                }
+            },
+            {
+                "UUID": "aa894373-1eb8-4634-b488-d37050a8f9fe",
+                "Name": "Red_pepper",
+                "Description": "65",
+                "Caluries": 20.0,
+                "Image": {
+                    "Name": "Red_pepper",
+                    "Alt": "Red_pepper"
+                }
+            },
+            {
+                "UUID": "8781fa8a-6205-4d71-bff9-1226b3c62229",
+                "Name": "Cabbage_carrot_salad",
+                "Description": "195",
+                "Caluries": 153.0,
+                "Image": {
+                    "Name": "Cabbage_carrot_salad",
+                    "Alt": "Cabbage_carrot_salad"
+                }
+            },
+            {
+                "UUID": "edec126f-353e-423f-8a38-07c19ec5f2c7",
+                "Name": "Beet_carrot_salad",
+                "Description": "360",
+                "Caluries": 152.0,
+                "Image": {
+                    "Name": "Beet_carrot_salad",
+                    "Alt": "Beet_carrot_salad"
+                }
+            }
+        ]
+    }
+]

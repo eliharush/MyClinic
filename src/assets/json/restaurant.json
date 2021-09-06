@@ -1,0 +1,98 @@
+[
+    {
+        "UUID": "48506366-fdd4-4edd-84f2-7954f09253ef",
+        "Name": "סלט קינואה",
+        "Description": "ארומה",
+        "Caluries": 210,
+        "price": "63",
+        "Image": {
+            "Name": "1.jpg",
+            "Url": "1.jpg",
+            "Alt": "Sushi"
+        }
+    },
+    {
+        "UUID": "48506366-fdd4-4edd-84f2-7954f09253ef",
+        "Name": "סלט ירקות סלמון",
+        "Description": "קפה גרג",
+        "Caluries": 278,
+        "price": "99",
+        "Image": {
+            "Name": "2.jpg",
+            "Url": "3.jpg",
+            "Alt": "Sushi"
+        }
+    },
+    {
+        "UUID": "48506366-fdd4-4edd-84f2-7954f09253ef",
+        "Name": "אנטיפסטי",
+        "Description": "קפה לואיז",
+        "Caluries": 411,
+        "price": "174",
+        "Image": {
+            "Name": "3.jpg",
+            "Url": "1.jpg",
+            "Alt": "Sushi"
+        }
+    },
+    {
+        "UUID": "48506366-fdd4-4edd-84f2-7954f09253ef",
+        "Name": "סלט יווני",
+        "Description": "ארומה",
+        "Caluries": 250.0,
+        "price": "63",
+        "Image": {
+            "Name": "4.jpg",
+            "Url": "1.jpg",
+            "Alt": "Sushi"
+        }
+    },
+    {
+        "UUID": "48506366-fdd4-4edd-84f2-7954f09253ef",
+        "Name": "סלט ניסואז",
+        "Description": "ביגה",
+        "Caluries": 250.0,
+        "price": "99",
+        "Image": {
+            "Name": "5.jpg",
+            "Url": "1.jpg",
+            "Alt": "Sushi"
+        }
+    },
+    {
+        "UUID": "48506366-fdd4-4edd-84f2-7954f09253ef",
+        "Name": "סלט קינואה",
+        "Description": "ארומה",
+        "Caluries": 210,
+        "price": "63",
+        "Image": {
+            "Name": "6.jpg",
+            "Url": "1.jpg",
+            "Alt": "Sushi"
+        }
+    },
+    {
+        "UUID": "48506366-fdd4-4edd-84f2-7954f09253ef",
+        "Name": "סלט ירקות סלמון",
+        "Description": "קפה גרג",
+        "Caluries": 278,
+        "price": "99",
+        "Image": {
+            "Name": "7.jpg",
+            "Url": "3.jpg",
+            "Alt": "Sushi"
+        }
+    },
+    {
+        "UUID": "48506366-fdd4-4edd-84f2-7954f09253ef",
+        "Name": "אנטיפסטי",
+        "Description": "קפה לואיז",
+        "Caluries": 411,
+        "price": "174",
+        "Image": {
+            "Name": "8.jpg",
+            "Url": "1.jpg",
+            "Alt": "Sushi"
+        }
+    }
+]

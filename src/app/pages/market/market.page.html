@@ -1,0 +1,23 @@
+<ion-header>
+  <app-market-header [page]="page" type="1"></app-market-header>
+</ion-header>
+
+<ion-content>
+  <div class="setting" (click)="changePage()">
+    <img src="../../../assets/img/graphics/headerb.png" style="width:100%;" />
+  </div>
+  <div [ngSwitch]="page.currentPage">
+    <div *ngSwitchCase="1">
+      <app-ideas></app-ideas>
+    </div>
+    <div *ngSwitchCase="2">
+      <app-shop></app-shop>
+    </div>
+    <div *ngSwitchCase="3">
+      <app-restaurant></app-restaurant>
+    </div>
+    <div *ngSwitchCase="4">
+      <app-favorits></app-favorits>
+    </div>
+  </div>
+</ion-content>

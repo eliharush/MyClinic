@@ -1,0 +1,33 @@
+<ion-header *ngIf="!selectedMeal">
+    <app-market-header [page]="page" type="3"></app-market-header>
+</ion-header>
+
+<!-- Pesonal_ID: "043028463"
+Name: "leedor"
+LastName: "B" -->
+<ion-content>
+    <div class="TitleHeader">
+        <div class="therapistIMG">
+            <img src="../../../assets/img/graphics/therapist.png" style="width:100%;" />
+        </div>
+        <div class="therapistTitle">
+            <div class="nameDes">{{patientDetails.Name}}</div>
+            <div class="titleDes">{{patientDetails.LastName}}</div>
+        </div>
+        <div class="call" (click)="call()">
+            <img src="../../../assets/img/graphics/Call.png" style="width:100%;" />
+        </div>
+    </div>
+
+
+    <div *ngFor="let inf of info">
+        <div class="infoRow">
+            <div class="leftInf">
+                {{inf}}
+            </div>
+            <div class="rightInfo">
+                <img src="../../../assets/img/graphics/Preferences_dropdoown.png" style="width:100%;" />
+            </div>
+        </div>
+    </div>
+</ion-content>

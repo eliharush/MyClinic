@@ -1,0 +1,40 @@
+<!--   -->
+
+
+<ion-header *ngIf="selectedMeal">
+    <div class="mainHeader">
+        <div class="refres" (click)="changeSelectedMeal()">
+            <img src="../../../assets/img/graphics/back.png" style="width:100%;" />
+        </div>
+        <div class="refres" (click)="refreshMeal()">
+            <img src="../../../assets/img/graphics/refresh.png" style="width:100%;" />
+        </div>
+        <div class="info">
+            Menu
+        </div>
+        <div class="setting" [routerLink]="'/prefrences/2'">
+            <img src="../../../assets/img/graphics/headerb.png" style="width:100%;" />
+        </div>
+    </div>
+</ion-header>
+
+
+<ion-content>
+    <div *ngIf="!selectedMeal">
+        <div *ngFor="let item of products">
+            <div (click)="openCloseMealPage(item)">
+                <app-md-row [item]="item"></app-md-row>
+            </div>
+        </div>
+
+        <div *ngFor="let strip of strips" class="strip">
+            <img src="../../../assets/img/strip/{{strip}}" style="width:100%;" />
+        </div>
+    </div>
+
+
+    <div *ngIf="selectedMeal">
+        <app-selected-meal [refreshSelectedMeal]="refreshSelectedMeal"></app-selected-meal>
+    </div>
+
+</ion-content>

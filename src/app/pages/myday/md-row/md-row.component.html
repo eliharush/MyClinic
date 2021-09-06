@@ -1,0 +1,19 @@
+<div class="content">
+  <div [ngClass]="item.type == 'Meal'?'mainMyDayRowClicked':'mainMyDayRow'">
+    <div class="alertImg">
+      <img src="../../../../assets/img/graphics/alert.png" style="width:100%;" />
+    </div>
+    <div class="timeMyDay">
+      {{item.time}}
+    </div>
+    <div class="InfoMyDay">
+      {{item.title}}
+    </div>
+    <div class="arr" *ngIf="item.type == 'Meal'">
+      <!-- <ion-icon name="arrow-forward"></ion-icon> -->
+      <ion-icon name="arrow-forward"></ion-icon>
+    </div>
+  </div>
+  <div class="line">
+  </div>
+</div>

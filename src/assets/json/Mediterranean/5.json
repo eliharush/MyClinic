@@ -1,0 +1,120 @@
+[
+    {
+        "MealCalories": 549.0,
+        "MealType": 10,
+        "Dishes": [
+            {
+                "UUID": "956e427c-7f27-469a-8203-40db39a1b9b7",
+                "Name": "Omlet",
+                "Description": "80.5",
+                "Caluries": 153.0,
+                "Image": {
+                    "Name": "Omlet",
+                    "Alt": "Omlet"
+                }
+            },
+            {
+                "UUID": "a512952c-c36b-43bb-af1a-49e367d2af22",
+                "Name": "Carrot",
+                "Description": "20",
+                "Caluries": 8.0,
+                "Image": {
+                    "Name": "Carrot",
+                    "Alt": "Carrot"
+                }
+            },
+            {
+                "UUID": "800a98aa-618e-458c-a79d-a6316b65860e",
+                "Name": "Green_salad",
+                "Description": "474",
+                "Caluries": 210.0,
+                "Image": {
+                    "Name": "Green_salad",
+                    "Alt": "Green_salad"
+                }
+            },
+            {
+                "UUID": "4e0691ff-1c0f-4947-83c5-cdd3149f8956",
+                "Name": "Tomato_basil_salad",
+                "Description": "166",
+                "Caluries": 41.0,
+                "Image": {
+                    "Name": "Tomato_basil_salad",
+                    "Alt": "Tomato_basil_salad"
+                }
+            }
+        ]
+    },
+    {
+        "MealCalories": 892.0,
+        "MealType": 20,
+        "Dishes": [
+            {
+                "UUID": "483be25e-3cff-4ea6-8303-745559e81712",
+                "Name": "Sweet_potato_cutlets",
+                "Description": "125",
+                "Caluries": 231.0,
+                "Image": {
+                    "Name": "Sweet_potato_cutlets",
+                    "Alt": "Sweet_potato_cutlets"
+                }
+            },
+            {
+                "UUID": "132031e7-75aa-4228-a6e5-4b97518088b9",
+                "Name": "Quinoa_salad",
+                "Description": "439",
+                "Caluries": 500.0,
+                "Image": {
+                    "Name": "Quinoa_salad",
+                    "Alt": "Quinoa_salad"
+                }
+            },
+            {
+                "UUID": "4e6c3e82-d534-414a-a35c-7fc991a627e0",
+                "Name": "Soup_veg",
+                "Description": "129",
+                "Caluries": 161.0,
+                "Image": {
+                    "Name": "Soup_veg",
+                    "Alt": "Soup_veg"
+                }
+            }
+        ]
+    },
+    {
+        "MealCalories": 458.0,
+        "MealType": 30,
+        "Dishes": [
+            {
+                "UUID": "AF8AF430-24FE-4D9C-B983-FF3767B679E7",
+                "Name": "Sweet_potato_cutlets_VG_GF",
+                "Description": "131",
+                "Caluries": 164.0,
+                "Image": {
+                    "Name": "Alo_gobi",
+                    "Alt": "Alo_gobi"
+                }
+            },
+            {
+                "UUID": "176115f6-c870-4821-ac89-8460634bbb6b",
+                "Name": "Tef_Bread",
+                "Description": "27.5",
+                "Caluries": 103.0,
+                "Image": {
+                    "Name": "Tef_Bread",
+                    "Alt": "Tef_Bread"
+                }
+            },
+            {
+                "UUID": "2be1fb78-4984-4dbf-85d7-957abaa2ccdf",
+                "Name": "Almonds",
+                "Description": "15",
+                "Caluries": 86.0,
+                "Image": {
+                    "Name": "Almonds",
+                    "Alt": "Almonds"
+                }
+            }
+        ]
+    }
+]

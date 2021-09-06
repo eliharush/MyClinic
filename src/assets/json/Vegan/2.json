@@ -1,0 +1,120 @@
+[
+    {
+        "MealCalories": 626.0,
+        "MealType": 10,
+        "Dishes": [
+            {
+                "UUID": "5166ef15-bfaf-4f6e-a09b-78bf27a0ed7a",
+                "Name": "Sandwich_Avocado",
+                "Description": "125",
+                "Caluries": 240.0,
+                "Image": {
+                    "Name": "Sandwich_Avocado",
+                    "Alt": "Sandwich_Avocado"
+                }
+            },
+            {
+                "UUID": "aa894373-1eb8-4634-b488-d37050a8f9fe",
+                "Name": "Red_pepper",
+                "Description": "65",
+                "Caluries": 20.0,
+                "Image": {
+                    "Name": "Red_pepper",
+                    "Alt": "Red_pepper"
+                }
+            },            
+            {
+                "UUID": "29024f41-33d1-446c-8b20-34be5bc8a957",
+                "Name": "Arugula_pomegranate_salad",
+                "Description": "208.5",
+                "Caluries": 242.0,
+                "Image": {
+                    "Name": "Arugula_pomegranate_salad",
+                    "Alt": "Arugula_pomegranate_salad"
+                }
+            }
+        ]
+    },
+    {
+        "MealCalories": 814.0,
+        "MealType": 20,
+        "Dishes": [
+            {
+                "UUID": "551d4f40-47cb-4773-a12e-f81e597cb25e",
+                "Name": "Sweet_potato_cutlets_VG_GF",
+                "Description": "105",
+                "Caluries": 269.0,
+                "Image": {
+                    "Name": "Sweet_potato_cutlets_VG_GF",
+                    "Alt": "Sweet_potato_cutlets_VG_GF"
+                }
+            },
+            {
+                "UUID": "21df62f0-cfdc-4e2a-a063-8dbcc1f54ac4",
+                "Name": "White_rice",
+                "Description": "cooked cup 186",
+                "Caluries": 242.0,
+                "Image": {
+                    "Name": "White_rice",
+                    "Alt": "White_rice"
+                }
+            },
+            {
+                "UUID": "BDFE3CB9-971E-4671-B8E0-8204B5D578E7",
+                "Name": "Coliflower_tabouli",
+                "Description": "214",
+                "Caluries": 190.0,
+                "Image": {
+                    "Name": "Coliflower_tabouli",
+                    "Alt": "Coliflower_tabouli"
+                }
+            },
+            {
+                "UUID": "af8af430-24fe-4d9c-b983-ff3767b679e7",
+                "Name": "Alo_gobi",
+                "Description": "131",
+                "Caluries": 164.0,
+                "Image": {
+                    "Name": "Alo_gobi",
+                    "Alt": "Alo_gobi"
+                }
+            }
+        ]
+    },
+    {
+        "MealCalories": 568.0,
+        "MealType": 30,
+        "Dishes": [
+            {
+                "UUID": "bf981963-c8f3-446d-b6b9-ed92e0e2e4ba",
+                "Name": "Muesli_Yogurt",
+                "Description": "282",
+                "Caluries": 340.0,
+                "Image": {
+                    "Name": "Muesli_Yogurt",
+                    "Alt": "Muesli_Yogurt"
+                }
+            },
+            {
+                "UUID": "176115f6-c870-4821-ac89-8460634bbb6b",
+                "Name": "Tef_Bread",
+                "Description": "27.5",
+                "Caluries": 103.0,
+                "Image": {
+                    "Name": "Tef_Bread",
+                    "Alt": "Tef_Bread"
+                }
+            },
+            {
+                "UUID": "f6a904e2-a569-4862-b76a-dd1a751da59f",
+                "Name": "Mango_raspberry_sorbet",
+                "Description": "155",
+                "Caluries": 125.0,
+                "Image": {
+                    "Name": "Mango_raspberry_sorbet",
+                    "Alt": "Mango_raspberry_sorbet"
+                }
+            }
+        ]
+    }
+]

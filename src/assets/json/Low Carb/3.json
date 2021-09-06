@@ -1,0 +1,140 @@
+[
+    {
+        "MealCalories": 595.0,
+        "MealType": 10,
+        "Dishes": [
+            {
+                "UUID": "a581a2de-b88b-47b3-a8d8-e9dd9634e70a",
+                "Name": "Green_smoothi",
+                "Description": "183",
+                "Caluries": 205.0,
+                "Image": {
+                    "Name": "Green_smoothi",
+                    "Alt": "Green_smoothi"
+                }
+            },
+            {
+                "UUID": "33f490b1-4442-4018-b94a-29f207e104fc",
+                "Name": "Olives",
+                "Description": "25",
+                "Caluries": 44.0,
+                "Image": {
+                    "Name": "Olives",
+                    "Alt": "Olives"
+                }
+            },
+            {
+                "UUID": "2c1599b3-60c7-4304-a943-7864ac32fe15",
+                "Name": "Guacamole",
+                "Description": "259",
+                "Caluries": 250.0,
+                "Image": {
+                    "Name": "Guacamole",
+                    "Alt": "Guacamole"
+                }
+            },
+            {
+                "UUID": "ba92919c-0f9b-4986-b44a-28d3dd297fbc",
+                "Name": "Cuccamber_seaweed_salad",
+                "Description": "213",
+                "Caluries": 96.0,
+                "Image": {
+                    "Name": "Cuccamber_seaweed_salad",
+                    "Alt": "Cuccamber_seaweed_salad"
+                }
+            }
+        ]
+    },
+    {
+        "MealCalories": 809.0,
+        "MealType": 20,
+        "Dishes": [
+            {
+                "UUID": "88706f4d-1f3d-4795-b45d-454619dee5df",
+                "Name": "Mushrooms_shuarma",
+                "Description": "206.5",
+                "Caluries": 139.0,
+                "Image": {
+                    "Name": "Mushrooms_shuarma",
+                    "Alt": "Mushrooms_shuarma"
+                }
+            },
+            {
+                "UUID": "498bf817-f657-4e4e-aee1-87ed913289a3",
+                "Name": "Eggplant_chees_rolls",
+                "Description": "112",
+                "Caluries": 211.0,
+                "Image": {
+                    "Name": "Eggplant_chees_rolls",
+                    "Alt": "Eggplant_chees_rolls"
+                }
+            },
+            {
+                "UUID": "9f90fa7d-2fdc-4831-8918-379b48ebad1c",
+                "Name": "Sprouts_salad",
+                "Description": "158",
+                "Caluries": 97.0,
+                "Image": {
+                    "Name": "Sprouts_salad",
+                    "Alt": "Sprouts_salad"
+                }
+            },
+            {
+                "UUID": "edec126f-353e-423f-8a38-07c19ec5f2c7",
+                "Name": "Beet_carrot_salad",
+                "Description": "360",
+                "Caluries": 152.0,
+                "Image": {
+                    "Name": "Beet_carrot_salad",
+                    "Alt": "Beet_carrot_salad"
+                }
+            }
+        ]
+    },
+    {
+        "MealCalories": 635.0,
+        "MealType": 30,
+        "Dishes": [
+            {
+                "UUID": "921c383c-da37-44aa-9502-43b3ce567bc1",
+                "Name": "Smoothi",
+                "Description": "161",
+                "Caluries": 290.0,
+                "Image": {
+                    "Name": "Smoothi",
+                    "Alt": "Smoothi"
+                }
+            },
+            {
+                "UUID": "7042c33f-ca4e-4820-b4af-79b4c0732a24",
+                "Name": "Blueberries",
+                "Description": "35",
+                "Caluries": 20.0,
+                "Image": {
+                    "Name": "Blueberries",
+                    "Alt": "Blueberries"
+                }
+            },
+            {
+                "UUID": "e8243187-0aea-4ac2-a099-397c6890ebd2",
+                "Name": "Green_been_fried",
+                "Description": "228",
+                "Caluries": 181.0,
+                "Image": {
+                    "Name": "Green_been_fried",
+                    "Alt": "Green_been_fried"
+                }
+            },
+            {
+                "UUID": "aeeae99f-3dc1-4a5b-b2c0-2772d2fdcfad",
+                "Name": "Sliced_Vegetables",
+                "Description": "353",
+                "Caluries": 124.0,
+                "Image": {
+                    "Name": "Sliced_Vegetables",
+                    "Alt": "Sliced_Vegetables"
+                }
+            }
+        ]
+    }
+]

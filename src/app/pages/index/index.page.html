@@ -1,0 +1,21 @@
+<ion-content>
+  <div align="center">
+    <div class="btn-group btn-group-toggle group" data-toggle="buttons">
+      <label [ngClass]="active == 0 ?'btn btn-secondary btnToogle active':'btn btn-secondary btnToogle'"
+        (click)="changeToogle(0)">
+        <input type="radio" name="options" id="option1" autocomplete="off"> Health Conditions
+      </label>
+      <label [ngClass]="active == 1 ?'btn btn-secondary btnToogle active':'btn btn-secondary btnToogle'"
+        (click)="changeToogle(1)">
+        <input type="radio" name="options" id="option2" autocomplete="off"> Therapies
+      </label>
+    </div>
+  </div>
+  <div class="line"></div>
+  <div *ngIf="mainIndex.length > 0 ">
+    <div *ngFor="let item of mainIndex[active].items">
+      <div class="itemName">{{item.Name}} </div>
+      <div class="line"></div>
+    </div>
+  </div>
+</ion-content>

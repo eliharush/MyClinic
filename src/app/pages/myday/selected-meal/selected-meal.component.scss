@@ -1,0 +1,66 @@
+.welcome-card img {
+    max-height: 35vh;
+    overflow: hidden;
+  }
+  
+  .menuIcon{
+    position: absolute;
+    right:20px;
+    top:15px;
+    background-color: transparent;
+  }
+
+  .main{
+    background-color: #fffff;
+  }
+
+  .titleSlide{
+      font-size: 20px;
+      font-weight: bold;
+      padding: 5px 15px;
+      padding-top: 2px;
+      margin-bottom: -30px;;
+  }
+ 
+  
+  .search{
+    text-align: right;
+    background-color: #efefef;
+    margin-bottom: 10px;;
+    padding-bottom: 0px;;
+  }
+  
+  .radioButtons{
+    margin-top: -27px;;
+    margin-bottom: 20px;;
+  }
+  
+  .s{
+    top: -12px !important;
+    right: 10px;;
+    position: relative;
+  }
+  .radio-inline {
+    display: inline;
+    padding-left: 0;
+    padding-right: 20px;
+    font-size: 18px;
+  }
+  
+  .radio-inline input {
+    margin-left: 0;
+    margin-right: -20px;
+    width: 25px !important;
+    height:30px;
+    margin-top: 10px;
+  }
+
+  .swiper-slide{
+      margin-left: 10px !important;
+      margin-top:10px;
+  }
+  
+  .grid{
+   
+  }
+  

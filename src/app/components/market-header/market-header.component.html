@@ -1,0 +1,37 @@
+<!-- <div class="Prefrences">
+    <a (click)="changePage(5)"> Prefrences </a>
+</div> -->
+
+<div class="mainHeader" *ngIf="type == 1">
+    <div [ngClass]="page.currentPage == 1 ?'TB selected':'TB'">
+        <a (click)="changePage(1)"> Ideas </a>
+    </div>
+    <div [ngClass]="page.currentPage == 2 ?'TB selected':'TB'">
+        <a (click)="changePage(2)"> Shop </a>
+    </div>
+    <div [ngClass]="page.currentPage == 3 ?'TB TB1 selected':'TB TB1'">
+        <a (click)="changePage(3)"> Restaurants </a>
+    </div>
+    <div [ngClass]="page.currentPage == 4 ?'TB  selected':'TB'">
+        <a (click)="changePage(4)"> Favorite </a>
+    </div>
+</div>
+
+<div class="mainHeader1" *ngIf=" type==2">
+    <div [ngClass]="page == 1 ?'TBB selected':'TBB'">
+        <a style="color: #15696c;"> Day </a>
+    </div>
+    <div [ngClass]="page == 2 ?'TBB selected':'TBB '">
+        <a style="color: #5fbcc1;"> 3 Days </a>
+    </div>
+    <div [ngClass]="page == 3 ?'TBB selected':'TBB'">
+        <a style="color: #5fbcc1;"> Week </a>
+    </div>
+</div>
+
+<div class="mainHeader" *ngIf=" type==3" (click)="goBack()">
+    <div class="refres">
+        <ion-icon name="arrow-back"></ion-icon>
+    </div>
+    <div class="tName">My Therapist</div>
+</div>

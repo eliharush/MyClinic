@@ -1,0 +1,39 @@
+<!-- <ion-header *ngIf="!selectedMeal">
+  <app-market-header [page]="page" type="3"></app-market-header>
+</ion-header> -->
+
+<ion-content>
+    <div class="TitleHeader">
+        <!-- <div class="therapistIMG">
+            <img src="../../../assets/img/graphics/therapist.png" style="width:100%;" />
+        </div> -->
+        <div class="therapistTitle">
+            <!-- <div class="titleDes">Dr. T</div> -->
+            <div class="nameDes">Immediate support</div>
+        </div>
+        <div class="call" (click)="call()">
+            <img src="../../../assets/img/graphics/Call.png" style="width:100%;" />
+        </div>
+    </div>
+
+
+    <div class="infoRow" [routerLink]="'/network-details'">
+        <div class="leftInf">
+            My Therapist
+        </div>
+        <div class="rightInfo">
+            <ion-icon name="arrow-forward" class="arrRight"></ion-icon>
+            <!-- <img src="../../../assets/img/graphics/Preferences_dropdoown.png" style="width:100%;" /> -->
+        </div>
+    </div>
+
+    <div class="infoRow">
+        <div class="leftInf">
+            Groups
+        </div>
+        <div class="rightInfo">
+            <img src="../../../assets/img/graphics/Preferences_dropdoown.png" style="width:100%;" />
+        </div>
+    </div>
+
+</ion-content>

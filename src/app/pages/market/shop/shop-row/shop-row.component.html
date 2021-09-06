@@ -1,0 +1,17 @@
+<div class="containerDV ">
+  <div class="mainRow">
+    <div class="basket">
+      <img src="assets/img/graphics/Add_to_Cart_icon.png" style="width:100%">
+    </div>
+    <div class="mainImg">
+      <img src="assets/img/medicines/{{product.Image.Name}}" style="width:100%">
+    </div>
+    <div class="info">
+      {{product.Name}}
+    </div>
+    <div class="like" align="center" (click)="changeFavorite()">
+      <img src="assets/img/graphics/fav_e.png" style="width:30px;" *ngIf="!product.selected">
+      <img src="assets/img/graphics/fav_f.png" style="width:30px;" *ngIf="product.selected">
+    </div>
+  </div>
+</div>

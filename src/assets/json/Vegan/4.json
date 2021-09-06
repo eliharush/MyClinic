@@ -1,0 +1,120 @@
+[
+    {
+        "MealCalories": 582.0,
+        "MealType": 10,
+        "Dishes": [
+            {
+                "UUID": "921c383c-da37-44aa-9502-43b3ce567bc1",
+                "Name": "Smoothi",
+                "Description": "161",
+                "Caluries": 290.0,
+                "Image": {
+                    "Name": "Smoothi",
+                    "Alt": "Smoothi"
+                }
+            },
+            {
+                "UUID": "99de4cba-80d6-43ca-93f2-6120902c3963",
+                "Name": "Banana",
+                "Description": "60",
+                "Caluries": 50.0,
+                "Image": {
+                    "Name": "Banana",
+                    "Alt": "Banana"
+                }
+            },
+            {
+                "UUID": "29024f41-33d1-446c-8b20-34be5bc8a957",
+                "Name": "Arugula_pomegranate_salad",
+                "Description": "208.5",
+                "Caluries": 242.0,
+                "Image": {
+                    "Name": "Arugula_pomegranate_salad",
+                    "Alt": "Arugula_pomegranate_salad"
+                }
+            }
+        ]
+    },
+    {
+        "MealCalories": 808.0,
+        "MealType": 20,
+        "Dishes": [
+            {
+                "UUID": "551d4f40-47cb-4773-a12e-f81e597cb25e",
+                "Name": "Sweet_potato_cutlets_VG_GF",
+                "Description": "105",
+                "Caluries": 269.0,
+                "Image": {
+                    "Name": "Sweet_potato_cutlets_VG_GF",
+                    "Alt": "Sweet_potato_cutlets_VG_GF"
+                }
+            },
+            {
+                "UUID": "176115f6-c870-4821-ac89-8460634bbb6b",
+                "Name": "Tef_Bread",
+                "Description": "27.5",
+                "Caluries": 103.0,
+                "Image": {
+                    "Name": "Tef_Bread",
+                    "Alt": "Tef_Bread"
+                }
+            },
+            {
+                "UUID": "4e6c3e82-d534-414a-a35c-7fc991a627e0",
+                "Name": "Soup_veg",
+                "Description": "129",
+                "Caluries": 161.0,
+                "Image": {
+                    "Name": "Soup_veg",
+                    "Alt": "Soup_veg"
+                }
+            },           
+            {
+                "UUID": "af8af430-24fe-4d9c-b983-ff3767b679e7",
+                "Name": "Alo_gobi",
+                "Description": "131",
+                "Caluries": 164.0,
+                "Image": {
+                    "Name": "Alo_gobi",
+                    "Alt": "Alo_gobi"
+                }
+            }
+        ]
+    },
+    {
+        "MealCalories": 552.0,
+        "MealType": 30,
+        "Dishes": [
+            {
+                "UUID": "FE11AF8A-92F6-4562-A4AA-F4FCB93FCF30",
+                "Name": "Mushroomsonion_quiche_GF_VG",
+                "Description": "163",
+                "Caluries": 262.0,
+                "Image": {
+                    "Name": "Mushroomsonion_quiche_GF_VG",
+                    "Alt": "Mushroomsonion_quiche_GF_VG"
+                }
+            },
+            {
+                "UUID": "48506366-fdd4-4edd-84f2-7954f09253ef",
+                "Name": "Sushi",
+                "Description": "308",
+                "Caluries": 250.0,
+                "Image": {
+                    "Name": "Sushi",
+                    "Alt": "Sushi"
+                }
+            },
+            {
+                "UUID": "D6A7C950-7B77-48FE-947F-1CFB94B6E428",
+                "Name": "Beetroot_carpaccio",
+                "Description": "169",
+                "Caluries": 154.0,
+                "Image": {
+                    "Name": "Beetroot_carpaccio",
+                    "Alt": "Beetroot_carpaccio"
+                }
+            }
+        ]
+    }
+]

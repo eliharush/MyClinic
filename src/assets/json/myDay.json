@@ -1,0 +1,153 @@
+[
+    {
+        "type": "info",
+        "title": "Bach Flowers (6 drops)",
+        "time": "06:00",
+        "MealCalories": 649.0,
+        "MealType": 10,
+        "Dishes": []
+    },
+    {
+        "type": "info",
+        "title": "Yoga",
+        "time": "07:00",
+        "MealCalories": 649.0,
+        "MealType": 10,
+        "Dishes": []
+    },
+    {
+        "type": "info",
+        "title": "Herbal tincture",
+        "time": "08:00",
+        "MealCalories": 649.0,
+        "MealType": 10,
+        "Dishes": []
+    },
+    {
+        "type": "Meal",
+        "title": "Breakfast",
+        "time": "09:00",
+        "MealCalories": 649.0,
+        "MealType": 10,
+        "Dishes": [
+            {
+                "UUID": "f7466739-a235-4887-bc7a-5835868bf1e6",
+                "Name": "Oat_Meal",
+                "Description": "36",
+                "Caluries": 185.0,
+                "Image": {
+                    "Name": "Oat_Meal",
+                    "Alt": "Oat_Meal"
+                }
+            },
+            {
+                "UUID": "0dfe7494-0d3f-4e4e-aec1-fcc95fd2a7ff",
+                "Name": "Oat_Lentils_crackers",
+                "Description": "101",
+                "Caluries": 340.0,
+                "Image": {
+                    "Name": "Oat_Lentils_crackers",
+                    "Alt": "Cracker Oat-Lentils"
+                }
+            },
+            {
+                "UUID": "aeeae99f-3dc1-4a5b-b2c0-2772d2fdcfad",
+                "Name": "Sliced_Veg",
+                "Description": "353",
+                "Caluries": 124.0,
+                "Image": {
+                    "Name": "Sliced_Veg",
+                    "Alt": "Sliced_Veg"
+                }
+            }
+        ]
+    },
+    {
+        "type": "Meal",
+        "title": "Lunch",
+        "time": "12:00",
+        "MealCalories": 674.0,
+        "MealType": 20,
+        "Dishes": [
+            {
+                "UUID": "88706f4d-1f3d-4795-b45d-454619dee5df",
+                "Name": "Mushrooms_Suarma",
+                "Description": "207",
+                "Caluries": 139.0,
+                "Image": {
+                    "Name": "Mushrooms_Shuarma",
+                    "Alt": "Mushrooms Suarma"
+                }
+            },
+            {
+                "UUID": "96bfdf8d-f8c4-49ad-b30d-a87897178a06",
+                "Name": "Antipasti",
+                "Description": "514",
+                "Caluries": 288.0,
+                "Image": {
+                    "Name": "Antipasti",
+                    "Alt": "Antipasti"
+                }
+            },
+            {
+                "UUID": "ded3d642-9463-480b-adf7-8b1c8e54c69c",
+                "Name": "Fennel_kohlrabi_sliced",
+                "Description": "214",
+                "Caluries": 150.0,
+                "Image": {
+                    "Name": "Fennel_kohlrabi_sliced",
+                    "Alt": "Fennal & Colorabi"
+                }
+            },
+            {
+                "UUID": "5eadb24e-3dfb-45bc-846b-64062e124428",
+                "Name": "Cuccamber_seaweed_salsad",
+                "Description": "213",
+                "Caluries": 97.0,
+                "Image": {
+                    "Name": "Cuccamber_seaweed_salsad",
+                    "Alt": "Cucammber Seaweed"
+                }
+            }
+        ]
+    },
+    {
+        "type": "Meal",
+        "title": "Dinner",
+        "time": "19:00",
+        "MealCalories": 705.0,
+        "MealType": 30,
+        "Dishes": [
+            {
+                "UUID": "a581a2de-b88b-47b3-a8d8-e9dd9634e70a",
+                "Name": "Green_Smoothi",
+                "Description": "183",
+                "Caluries": 205.0,
+                "Image": {
+                    "Name": "Green_Smoothi",
+                    "Alt": "Green_Smoothi"
+                }
+            },
+            {
+                "UUID": "6744355d-c270-4974-a312-1315e4ff3bbc",
+                "Name": "Sweet_potato_cutlets_VG_GF",
+                "Description": "294",
+                "Caluries": 270.0,
+                "Image": {
+                    "Name": "Sweet_potato_cutlets_VG_GF",
+                    "Alt": "Potato & Cury"
+                }
+            },
+            {
+                "UUID": "b6bb2808-ca43-4996-89c7-eadf6e792ce0",
+                "Name": "Apple_cramble_VG_GF",
+                "Description": "138",
+                "Caluries": 230.0,
+                "Image": {
+                    "Name": "Apple_cramble_VG_GF",
+                    "Alt": "Apple Cramble Vegan"
+                }
+            }
+        ]
+    }
+]

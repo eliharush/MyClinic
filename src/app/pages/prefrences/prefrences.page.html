@@ -1,0 +1,117 @@
+<ion-header>
+    <!-- <ion-icon name="arrow-back-circle-outline"></ion-icon> -->
+    <div class="mainHeader">
+        <div *ngIf="insertPageId == 2" class="refres" [routerLink]="'/tabs/myday/'">
+            <ion-icon name="arrow-back"></ion-icon>
+        </div>
+        <div *ngIf="insertPageId == 1" class="refres" [routerLink]="'/tabs/market/1'">
+            <ion-icon name="arrow-back"></ion-icon>
+        </div>
+        <div class="info">
+            Perfrences
+        </div>
+    </div>
+</ion-header>
+
+
+
+<ion-content>
+    <div class="section">
+        <div class="mainSection">MEALS</div>
+        <div class="mRow">
+            <div class="row " *ngFor="let meal of meals">
+                <div class="col-1">
+                    <input type="checkbox" [(ngModel)]="meal.selected" class="cb">
+                </div>
+                <div class="col-10 mealTXT">
+                    {{meal.name}}
+                </div>
+                <div class="line"></div>
+            </div>
+        </div>
+    </div>
+
+    <div class="row ml-1">
+        <div class="col-11">
+            <div class="form-group">
+                <label for="exampleFormControlSelect1">Calories</label>
+                <select class="form-control" id="exampleFormControlSelect1">
+                    <option>600</option>
+                    <option>800</option>
+                    <option>1000</option>
+                    <option>1200</option>
+                    <option>1400</option>
+                    <option>1600</option>
+                    <option>1800</option>
+                    <option>2000</option>
+                    <option>2200</option>
+                    <option>2400</option>
+                    <option>2600</option>
+                    <option>2800</option>
+                    <option>3000</option>
+                </select>
+            </div>
+        </div>
+    </div>
+
+    <div class="section">
+        <div class="mainSection">Diet</div>
+        <div class="mRow">
+            <div class="row mt-3" *ngFor="let diet of diets let i=index">
+                <div class="col-1">
+                    <input type="radio" name="diet" [value]="i" [(ngModel)]="dietSelected" class="cb"
+                        (ngModelChange)="cbChange()">
+                </div>
+                <div class="col-10 mealTXT">
+                    {{diet.Name}}
+                </div>
+                <div class="toogles" *ngIf="dietSelected == i">
+                    <div class="toogles">
+                        <div class="toogleLeft">
+                            <ion-item lines="none">
+                                <ion-label>Gluten</ion-label>
+                                <ion-toggle></ion-toggle>
+                            </ion-item>
+                        </div>
+                        <div class="toogleRight">
+                            <ion-item lines="none">
+                                <ion-label>Grain</ion-label>
+                                <ion-toggle></ion-toggle>
+                            </ion-item>
+                        </div>
+                    </div>
+                    <div class="toogles">
+                        <div class="toogleLeft">
+                            <ion-item lines="none">
+                                <ion-label>Dairy</ion-label>
+                                <ion-toggle></ion-toggle>
+                            </ion-item>
+                        </div>
+                        <div class="toogleRight">
+                            <ion-item lines="none">
+                                <ion-label>Eggs</ion-label>
+                                <ion-toggle></ion-toggle>
+                            </ion-item>
+                        </div>
+                    </div>
+                    <div class="toogles">
+                        <div class="toogleLeft">
+                            <ion-item lines="none">
+                                <ion-label>Soy</ion-label>
+                                <ion-toggle></ion-toggle>
+                            </ion-item>
+                        </div>
+                        <div class="toogleRight">
+                            <ion-item lines="none">
+                                <ion-label>Fish</ion-label>
+                                <ion-toggle></ion-toggle>
+                            </ion-item>
+                        </div>
+                    </div>
+                    <div class="line"></div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</ion-content>

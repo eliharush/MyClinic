@@ -1,0 +1,110 @@
+[
+    {
+        "MealCalories": 546.0,
+        "MealType": 10,
+        "Dishes": [
+            {
+                "UUID": "a581a2de-b88b-47b3-a8d8-e9dd9634e70a",
+                "Name": "Green_smoothi",
+                "Description": "183",
+                "Caluries": 205.0,
+                "Image": {
+                    "Name": "Green_smoothi",
+                    "Alt": "Green_smoothi"
+                }
+            },            
+            {
+                "UUID": "4e0691ff-1c0f-4947-83c5-cdd3149f8956",
+                "Name": "Tomato_basil_salad",
+                "Description": "166",
+                "Caluries": 41.0,
+                "Image": {
+                    "Name": "Tomato_basil_salad",
+                    "Alt": "Tomato_basil_salad"
+                }
+            },
+            {
+                "UUID": "BDFE3CB9-971E-4671-B8E0-8204B5D578E7",
+                "Name": "Coliflower_tabouli",
+                "Description": "214",
+                "Caluries": 190.0,
+                "Image": {
+                    "Name": "Coliflower_tabouli",
+                    "Alt": "Coliflower_tabouli"
+                }
+            },
+            {
+                "UUID": "99DE4CBA-80D6-43CA-93F2-6120902C3963",
+                "Name": "Banana",
+                "Description": "60",
+                "Caluries": 50.0,
+                "Image": {
+                    "Name": "Banana",
+                    "Alt": "Banana"
+                }
+            }
+        ]
+    },
+    {
+        "MealCalories": 781.0,
+        "MealType": 20,
+        "Dishes": [
+            {
+                "UUID": "483be25e-3cff-4ea6-8303-745559e81712",
+                "Name": "Sweet_potato_cutlets",
+                "Description": "125",
+                "Caluries": 231.0,
+                "Image": {
+                    "Name": "Sweet_potato_cutlets",
+                    "Alt": "Sweet_potato_cutlets"
+                }
+            },
+            {
+                "UUID": "176115f6-c870-4821-ac89-8460634bbb6b",
+                "Name": "Tef_Bread",
+                "Description": "27.5",
+                "Caluries": 103.0,
+                "Image": {
+                    "Name": "Tef_Bread",
+                    "Alt": "Tef_Bread"
+                }
+            },
+            {
+                "UUID": "50842f09-789e-4c1e-8dac-0c83ef5f06e8",
+                "Name": "Carrot_coconut_soup",
+                "Description": "351",
+                "Caluries": 447.0,
+                "Image": {
+                    "Name": "Carrot_coconut_soup",
+                    "Alt": "Carrot_coconut_soup"
+                }
+            }
+        ]
+    },
+    {
+        "MealCalories": 606.0,
+        "MealType": 30,
+        "Dishes": [
+            {
+                "UUID": "99018520-9f01-4849-b758-d0ca3c0295fc",
+                "Name": "Salmon_on_pan",
+                "Description": "154.5",
+                "Caluries": 356.0,
+                "Image": {
+                    "Name": "Salmon_on_pan",
+                    "Alt": "Salmon_on_pan"
+                }
+            },
+            {
+                "UUID": "48506366-fdd4-4edd-84f2-7954f09253ef",
+                "Name": "Sushi",
+                "Description": "308",
+                "Caluries": 250.0,
+                "Image": {
+                    "Name": "Sushi",
+                    "Alt": "Sushi"
+                }
+            }
+        ]
+    }
+]

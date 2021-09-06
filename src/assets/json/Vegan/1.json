@@ -1,0 +1,130 @@
+[
+    {
+        "MealCalories": 635.0,
+        "MealType": 10,
+        "Dishes": [            
+            {
+                "UUID": "19bc379c-d7ec-433b-89cb-5fa2c30f1fe8",
+                "Name": "Avocado",
+                "Description": "55",
+                "Caluries": 90.0,
+                "Image": {
+                    "Name": "Avocado",
+                    "Alt": "Avocado"
+                }
+            },
+            {
+                "UUID": "aeeae99f-3dc1-4a5b-b2c0-2772d2fdcfad",
+                "Name": "Sliced_Vegetables",
+                "Description": "353",
+                "Caluries": 124.0,
+                "Image": {
+                    "Name": "Sliced_Vegetables",
+                    "Alt": "Sliced_Vegetables"
+                }
+            },
+            {
+                "UUID": "8781fa8a-6205-4d71-bff9-1226b3c62229",
+                "Name": "Cabbage_carrot_salad",
+                "Description": "195",
+                "Caluries": 153.0,
+                "Image": {
+                    "Name": "Cabbage_carrot_salad",
+                    "Alt": "Cabbage_carrot_salad"
+                }
+            },
+            {
+                "UUID": "ba92919c-0f9b-4986-b44a-28d3dd297fbc",
+                "Name": "Cuccamber_seaweed_salad",
+                "Description": "213",
+                "Caluries": 96.0,
+                "Image": {
+                    "Name": "Cuccamber_seaweed_salad",
+                    "Alt": "Cuccamber_seaweed_salad"
+                }
+            }
+        ]
+    },
+    {
+        "MealCalories": 744.0,
+        "MealType": 20,
+        "Dishes": [
+            {
+                "UUID": "21bcc7ce-5b80-48a4-96fc-6a7916302362",
+                "Name": "Brocolli_quiche_GF_VG",
+                "Description": "133",
+                "Caluries": 220.0,
+                "Image": {
+                    "Name": "Brocolli_quiche_GF_VG",
+                    "Alt": "Brocolli_quiche_GF_VG"
+                }
+            },
+            {
+                "UUID": "96bfdf8d-f8c4-49ad-b30d-a87897178a06",
+                "Name": "Antipasti",
+                "Description": "514",
+                "Caluries": 288.0,
+                "Image": {
+                    "Name": "Antipasti",
+                    "Alt": "Antipasti"
+                }
+            },
+            {
+                "UUID": "10390475-3472-4b16-bc46-e1777bf0a3cf",
+                "Name": "Raman_soup",
+                "Description": "179",
+                "Caluries": 139.0,
+                "Image": {
+                    "Name": "Raman_soup",
+                    "Alt": "Raman_soup"
+                }
+            },
+            {
+                "UUID": "9f90fa7d-2fdc-4831-8918-379b48ebad1c",
+                "Name": "Sprouts_salad",
+                "Description": "158",
+                "Caluries": 97.0,
+                "Image": {
+                    "Name": "Sprouts_salad",
+                    "Alt": "Sprouts_salad"
+                }
+            }
+        ]
+    },
+    {
+        "MealCalories": 613.0,
+        "MealType": 30,
+        "Dishes": [
+            {
+                "UUID": "3e07261d-a71b-4e0d-95c7-f6afa96c4504",
+                "Name": "Corn_cutlets_VG",
+                "Description": "158",
+                "Caluries": 424.0,
+                "Image": {
+                    "Name": "Corn_cutlets_VG",
+                    "Alt": "Corn_cutlets_VG"
+                }
+            },
+            {
+                "UUID": "a5a7a5b4-c9b1-459d-afed-c04ac1eec06a",
+                "Name": "Stuffed_zucchini",
+                "Description": "166",
+                "Caluries": 169.0,
+                "Image": {
+                    "Name": "Stuffed_zucchini",
+                    "Alt": "Stuffed_zucchini"
+                }
+            },
+            {
+                "UUID": "9FF0D460-3E4E-4995-81AF-0CC3AC9C0C03",
+                "Name": "Coconut_tapioca",
+                "Description": "67",
+                "Caluries": 168.0,
+                "Image": {
+                    "Name": "Coconut_tapioca",
+                    "Alt": "Coconut_tapioca"
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,37 @@
+.group{
+    width:90%;
+    margin: auto;
+    margin-top: 10px;;
+}
+
+.btnToogle{
+    width:50% !important;
+}
+
+.line{
+    width:100%;
+    height:1px;
+    background-color: #f7f7f7;;
+    margin-top: 10px;
+    margin-bottom: 17px;
+}
+
+.itemName{
+    color:#999999;
+    margin-left: 18px;
+    font-size: 20px;;
+    margin-top: -8px;;
+}
+
+
+.btn-secondary:not(:disabled):not(.disabled).active, .btn-secondary:not(:disabled):not(.disabled):active, .show>.btn-secondary.dropdown-toggle {
+    color: #fff;
+    background-color: #9FCFBB;;
+    border-color: #e8a12d;
+}
+
+
+.btn-secondary {
+    background-color: #e4d3d3;
+    border-color: #e4d3d3;
+}

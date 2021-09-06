@@ -1,0 +1,120 @@
+[
+    {
+        "MealCalories": 554.0,
+        "MealType": 10,
+        "Dishes": [
+            {
+                "UUID": "1B29DAC1-7697-4D35-A855-660F414F4779",
+                "Name": "Apple",
+                "Description": "100",
+                "Caluries": 50.0,
+                "Image": {
+                    "Name": "Apple",
+                    "Alt": "Apple"
+                }
+            },
+            {
+                "UUID": "fdc1509a-e622-4204-a59a-2af384926721",
+                "Name": "Oat_Lentils_crackers",
+                "Description": "101",
+                "Caluries": 341.0,
+                "Image": {
+                    "Name": "Oat_Lentils_crackers",
+                    "Alt": "Oat_Lentils_crackers"
+                }
+            },
+            {
+                "UUID": "4e0691ff-1c0f-4947-83c5-cdd3149f8956",
+                "Name": "Tomato_basil_salad",
+                "Description": "166",
+                "Caluries": 41.0,
+                "Image": {
+                    "Name": "Tomato_basil_salad",
+                    "Alt": "Tomato_basil_salad"
+                }
+            }
+        ]
+    },
+    {
+        "MealCalories": 848.0,
+        "MealType": 20,
+        "Dishes": [
+            {
+                "UUID": "642FE173-520B-4F67-B3A3-CF9F30BDF837",
+                "Name": "Coconut_curry_noodels",
+                "Description": "243",
+                "Caluries": 210.0,
+                "Image": {
+                    "Name": "Coconut_curry_noodels",
+                    "Alt": "Coconut_curry_noodels"
+                }
+            },
+            {
+                "UUID": "73b44e53-33ba-420c-8c1e-cdcc9afea0d2",
+                "Name": "Steemed_broccoli",
+                "Description": "199",
+                "Caluries": 69.0,
+                "Image": {
+                    "Name": "Steemed_broccoli",
+                    "Alt": "Steemed_broccoli"
+                }
+            },            
+            {
+                "UUID": "29024f41-33d1-446c-8b20-34be5bc8a957",
+                "Name": "Arugula_pomegranate_salad",
+                "Description": "208.5",
+                "Caluries": 242.0,
+                "Image": {
+                    "Name": "Arugula_pomegranate_salad",
+                    "Alt": "Arugula_pomegranate_salad"
+                }
+            },
+            {
+                "UUID": "ba92919c-0f9b-4986-b44a-28d3dd297fbc",
+                "Name": "Cuccamber_seaweed_salad",
+                "Description": "213",
+                "Caluries": 96.0,
+                "Image": {
+                    "Name": "Cuccamber_seaweed_salad",
+                    "Alt": "Cuccamber_seaweed_salad"
+                }
+            }
+        ]
+    },
+    {
+        "MealCalories": 594.0,
+        "MealType": 30,
+        "Dishes": [
+            {
+                "UUID": "816584A7-31C2-420A-886F-790ADB71F9BE",
+                "Name": "Almond_pancakes",
+                "Description": "110",
+                "Caluries": 285.0,
+                "Image": {
+                    "Name": "Almond_pancakes",
+                    "Alt": "Almond_pancakes"
+                }
+            },
+            {
+                "UUID": "7CA6C546-7D03-4FD5-92A9-B68FC757D3C4",
+                "Name": "Walnuts",
+                "Description": "16",
+                "Caluries": 96.0,
+                "Image": {
+                    "Name": "Walnuts",
+                    "Alt": "Walnuts"
+                }
+            },
+            {
+                "UUID": "f6a904e2-a569-4862-b76a-dd1a751da59f",
+                "Name": "Mango_raspberry_sorbet",
+                "Description": "155",
+                "Caluries": 125.0,
+                "Image": {
+                    "Name": "Mango_raspberry_sorbet",
+                    "Alt": "Mango_raspberry_sorbet"
+                }
+            }
+        ]
+    }
+]

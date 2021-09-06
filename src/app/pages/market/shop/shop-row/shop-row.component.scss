@@ -1,0 +1,42 @@
+.mainRow{
+    width:90%;
+    overflow: hidden;
+    // margin: auto;
+    background-color: white;
+    position: relative;
+    left:5%;
+}
+
+.containerDV{
+    // margin-top: 20px;
+}
+
+.basket{
+    float: left;
+    width:20%;
+    padding: 10px 20px;
+    height:70px;
+    padding-top: 20px;;
+    background-color: #e1f9f9;
+}
+
+.mainImg{
+    float: left;
+    width:20%;
+    margin-top: 0px;
+}
+
+.info{
+    float:left;
+    width:40%;
+    text-align: right;
+    margin-top: 20px;;
+}
+
+.like{
+    float:right;
+    width:10%;
+    margin-top: 20px;;
+    margin-right: 10px;;
+}
+
